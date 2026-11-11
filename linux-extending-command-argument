@@ -1,0 +1,5 @@
+ls: it is used to list folders
+-a: it is used to see hidden folders(-a is short for --all)
+--help: it is used to know all possible command accepted and brief description on there use
+man: (man is a short form for manual as in a new phone or any gadget) it is used to know the manual of the command in use
+all above for example in use with ls such as: ls -a, ls --help, ls man.
